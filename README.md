@@ -1,2 +1,2 @@
-# ZeroMail-2.0
-A P2P messaging and filesharing application for ZeroNet
+# ZeroMail
+End-to-end encrypted, P2P messaging site.

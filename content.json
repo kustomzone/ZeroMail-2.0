@@ -1,0 +1,97 @@
+{
+ "address": "16X3emHaVgNPrx39U1sYd24dFk5L5swTua",
+ "background-color": "#FFF",
+ "cloneable": true,
+ "description": "End-to-end encrypted messaging and File Sharing",
+ "domain": "16X3emHaVgNPrx39U1sYd24dFk5L5swTua",
+ "files": {
+  "LICENSE": {
+   "sha512": "d281feecb7d1218e1aea8269f288fcd63385da1a130681fadae77262637cb65f",
+   "size": 18027
+  },
+  "README.md": {
+   "sha512": "83689436c7fefbbca09797781fab7fa0b74db6a56277ff1421d16b329266d63d",
+   "size": 53
+  },
+  "css/all.css": {
+   "sha512": "55b15520789d975aa8bb1cafdf77d37a7ba184160319bef0704270322824150c",
+   "size": 162220
+  },
+  "data-default/users/content-default.json": {
+   "sha512": "8de96627a252609e5252b91e276504169b9320edc2a05bd137a04ae472441b8b",
+   "size": 695
+  },
+  "data/cleanup.py": {
+   "sha512": "ada5c3b0d2a607944794829a8c2fdd427845461adeb82f5386236e521f542d55",
+   "size": 1398
+  },
+  "dbschema.json": {
+   "sha512": "0883202ab2d5d551ac458f799b74596de736a312c1a07c715a9b9001a210f29f",
+   "size": 915
+  },
+  "echobot/echobot.py": {
+   "sha512": "83a3681a6da8c11d2dff7f9e5b0fef30c552eddae1c4623090d35289eab34e8a",
+   "size": 2183
+  },
+  "echobot/listbot.py": {
+   "sha512": "b68350fc749ee9081db5a34fc83f8c46915718978a182e1a41359a13f7f85fe9",
+   "size": 1354
+  },
+  "file.html": {
+   "sha512": "c9ae912a1da23a61a68338d1613a72bd191ddbd5c3e2e77fc4a51b5ab362f241",
+   "size": 698416
+  },
+  "fonts/glyphicons-halflings-regular.eot": {
+   "sha512": "efc910c96b9f5c58ea11a84577cf60ae995503b1ee670bb7e7d4a413b7403769",
+   "size": 20127
+  },
+  "fonts/glyphicons-halflings-regular.svg": {
+   "sha512": "c2e77eab327af1469097c31bc0daf820c066b0222059d8ff0ecebca974b62b75",
+   "size": 108738
+  },
+  "fonts/glyphicons-halflings-regular.ttf": {
+   "sha512": "2b066e06506ef20d69698d37cdec552176ef3f64a1151a99a1d02d72d39ce12c",
+   "size": 45404
+  },
+  "fonts/glyphicons-halflings-regular.woff": {
+   "sha512": "f5366ab255afefe3fe06150e8509e776b5618ff50fe3e0fa8e4d715d645b1e44",
+   "size": 23424
+  },
+  "fonts/glyphicons-halflings-regular.woff2": {
+   "sha512": "3811804f56ec3c82f0bef35de0a9250e546a1e357fb59e2784f610d638fec355",
+   "size": 18028
+  },
+  "img/loading.gif": {
+   "sha512": "8a42b98962faea74618113166886be488c09dad10ca47fe97005edc5fb40cc00",
+   "size": 723
+  },
+  "index.html": {
+   "sha512": "1ab9e4e35534980780717be5b2bb8757cac863833224393b587b058689e91c8f",
+   "size": 1303
+  },
+  "js/all.js": {
+   "sha512": "f9c7da8f4e0f25ba18b5305005d9ad3cf6abc0f6680e6042eb640ebdaa6dc7c2",
+   "size": 177334
+  }
+ },
+ "ignore": "((js|css)/(?!all.(js|css))|data/.*db|data/users/.*/.*)",
+ "includes": {
+  "data/users/content.json": {
+   "signers": [],
+   "signers_required": 1
+  }
+ },
+ "inner_path": "content.json",
+ "modified": 1467980078.635446,
+ "sign": [
+  41478855161846724219143433539340208733365045752540724087882761820468024520255,
+  87838228483719666928113594027651397710044934662245019936334258352915368833892
+ ],
+ "signers_sign": "HMVMp5Ex6zTpYaOpvsWCXZHtCY6gqdDMdRuCt3Vk2lGz6wSfOSSElMQfAj1n3xMDQQ43pz9sIl+wMm2DvPGl9os=",
+ "signs": {
+  "16X3emHaVgNPrx39U1sYd24dFk5L5swTua": "HLs3c5BhcQjIxJuzgce5ZR2c0tb8jL8jXTf3FIKuI+4bmzDD5OYQICoXc5njJea3E5Z+yCTE2iP2NPLjeEiqszE="
+ },
+ "signs_required": 1,
+ "title": "ZeroMail 2.0",
+ "zeronet_version": "0.3.7"
+}
